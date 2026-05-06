@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: #fff;
+}
+
+header {
+  padding: 20px;
+  background: #111827;
+  text-align: center;
+}
+
+nav {
+  background: #1f2937;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+main {
+  padding: 30px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.card {
+  background: #1f2937;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
